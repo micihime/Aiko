@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aiko", "Aiko\Aiko.csproj", "{BF0DBBEB-5B83-4EB7-A8A9-47D7D87A07A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aiko.Tests", "Aiko.Tests\Aiko.Tests.csproj", "{1182C565-257C-4B31-84DA-F7243A95E9C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0DBBEB-5B83-4EB7-A8A9-47D7D87A07A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0DBBEB-5B83-4EB7-A8A9-47D7D87A07A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0DBBEB-5B83-4EB7-A8A9-47D7D87A07A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0DBBEB-5B83-4EB7-A8A9-47D7D87A07A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1182C565-257C-4B31-84DA-F7243A95E9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1182C565-257C-4B31-84DA-F7243A95E9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1182C565-257C-4B31-84DA-F7243A95E9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1182C565-257C-4B31-84DA-F7243A95E9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACFE6300-7C0B-44BD-AF01-BF2E669704AB}
+	EndGlobalSection
+EndGlobal
