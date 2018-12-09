@@ -199,6 +199,7 @@
     <Compile Include="Controllers\Example2Controller.cs" />
     <Compile Include="Controllers\Example3Controller.cs" />
     <Compile Include="Controllers\Example4Controller.cs" />
+    <Compile Include="Controllers\Example5Controller.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Filters\LogAttribute.cs" />
@@ -206,6 +207,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Example.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -274,6 +276,7 @@
     <Content Include="Views\Example3\Index.cshtml" />
     <Content Include="Views\Example3\lalala.cshtml" />
     <Content Include="Views\Example4\Index.cshtml" />
+    <Content Include="Views\Example5\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
