@@ -198,8 +198,10 @@
     <Compile Include="Controllers\Example1Controller.cs" />
     <Compile Include="Controllers\Example2Controller.cs" />
     <Compile Include="Controllers\Example3Controller.cs" />
+    <Compile Include="Controllers\Example4Controller.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Filters\LogAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -271,6 +273,7 @@
     <Content Include="Views\Example2\Index.cshtml" />
     <Content Include="Views\Example3\Index.cshtml" />
     <Content Include="Views\Example3\lalala.cshtml" />
+    <Content Include="Views\Example4\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
